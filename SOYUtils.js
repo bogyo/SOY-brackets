@@ -27,8 +27,8 @@ define(function (require, exports, module) {
      *
      */
     
-   
-    var _templateRegExp = /{template ([^\}\/][^\s]+)/g;
+    
+    var _templateRegExp = /{template ([^\}\/][^\s^\}\/]+)/g;
     
     /**
      * @private
