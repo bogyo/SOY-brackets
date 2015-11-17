@@ -2,10 +2,10 @@
 brackets extension: soy syntax highlighter and quick edit functionality for soy templates
 
 ## how to install
-- download the full package as a zip
 - open Brackets
 - go to extension manager under file menu
-- drag the zip file to 'drag .zip here or install from url' field
+- click on the Avaliable tab
+- find SOY for Brackets extension
 - check your soy files syntax highlighting
 
 ## Quick Edit functionality
