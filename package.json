@@ -1,10 +1,10 @@
 {
-  "name": "Soy Syntax Highlighting",
+  "name": "soy_for_brackets",
   "version": "1.0",
   "title": "SOY for Brackets",
   "description": "Soy Syntax and quick edit extension.",
   "homepage": "https://github.com/bogyo/SOY-brackets",
   "author": "Katinka Orosz",
   "license": "MIT",
-  "keywords": ["soy", "highlighting", "closure", "quick edit", "brackets"]
+  "keywords": ["soy", "highlighting", "quick edit", "closure", "brackets"]
 }
