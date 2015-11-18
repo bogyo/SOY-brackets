@@ -9,6 +9,6 @@ brackets extension: soy syntax highlighter and quick edit functionality for soy 
 - check your soy files syntax highlighting
 
 ## Quick Edit functionality
-- cursor should be somewhere at {call} template.name {/call}
+- cursor should be somewhere at {call template.name}
 - command: ctrl/cmd+E
-- inline editor open with the approprate template definition (if its avaliable in the project files)
+- inline editor will open with the approprate template definition (if its avaliable in the project files -  you can check your project files in the left sidebar of brackets).
